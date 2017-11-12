@@ -1,5 +1,7 @@
 public class Opgave_5_4 {
 
+    // Lavet af Erik Ruhmanis
+
     public static void main(String[] args) {
 
         System.out.println("Inches      Centimetres");

@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Opgave_3_17 {
 
+    // Lavet af Erik Ruhmanis
+
     public static void main(String[] args) {
 
         // Deklarer nødvendige variabler

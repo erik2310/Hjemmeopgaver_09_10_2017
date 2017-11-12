@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Opgave_5_1 {
 
+    // Lavet af Erik Ruhmanis
+
     public static void main(String[] args) {
         // Deklarer javaScore og initialisere den til at være 1
         int javaScore = 1;

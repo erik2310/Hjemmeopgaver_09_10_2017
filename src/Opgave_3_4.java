@@ -2,6 +2,8 @@ import java.util.Random;
 
 public class Opgave_3_4 {
 
+    // Lavet af Erik Ruhmanis
+
     public static void main(String[] args) {
 
         // Laver et random objekt af klassen Random.

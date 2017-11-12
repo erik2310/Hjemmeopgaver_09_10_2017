@@ -3,10 +3,12 @@ import java.util.Scanner;
 public class Opgave_3_6 {
 
 
+    // Lavet af Erik Ruhmanis
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-       // Prompt the user to enter weight in pounds
+        // Prompt the user to enter weight in pounds
         System.out.print("Enter weight in pounds: ");
         double weight = input.nextDouble();
 
